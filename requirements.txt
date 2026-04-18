@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+emcee
+corner
+camb
+healpy
+uproot
+awkward
+pycbc
