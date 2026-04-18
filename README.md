@@ -1,2 +1,2 @@
-# AstroData-Testing-Pipeline
-Bayesian MCMC pipeline testing dynamic dark energy (Γ) vs. ΛCDM. Uses Pantheon+ SNe Ia (full covariance matrix) + SDSS DR12 BAO with Planck 2018 r_d prior. Model selection via AIC &amp; BIC.
+Project: Dynamic Dark Energy vs. $\Lambda$CDM Model Selection via MCMC
+This repository contains a complete Bayesian analysis pipeline testing a dynamic dark energy parameterization ($\Gamma$) against the standard $\Lambda$CDM model. The script utilizes the emcee library for Markov Chain Monte Carlo (MCMC) sampling. It actively fetches the latest Pantheon+ Type Ia Supernovae dataset (including the full statistical and systematic covariance matrix) and integrates SDSS DR12 Baryon Acoustic Oscillations (BAO) with a Planck 2018 $r_d$ prior. Model selection is strictly evaluated using Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC).
