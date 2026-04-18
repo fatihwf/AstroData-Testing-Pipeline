@@ -86,3 +86,18 @@ pip install -r requirements.txt
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+
+## 📜 Citation
+
+If you use this framework or data pipeline in your research or projects, please cite it as follows:
+
+```bibtex
+@misc{Goc2026Cosmo,
+  author = {Fatih Gazi Göç},
+  title = {AstroData-Testing-Pipeline: A Multi-Stage Cosmological Data Analysis Pipeline},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{[https://github.com/fatihwf/AstroData-Testing-Pipeline](https://github.com/fatihwf/AstroData-Testing-Pipeline)}}
+}
+```
